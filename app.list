@@ -5,3 +5,10 @@ atom
 neovim
 node
 lua
+
+firefox
+firefox@developer-edition
+google-chrome
+chromium
+opera
+brave-browser
