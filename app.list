@@ -5,6 +5,7 @@ atom
 neovim
 node
 lua
+docker
 
 firefox
 firefox@developer-edition
